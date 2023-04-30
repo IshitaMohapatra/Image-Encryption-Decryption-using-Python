@@ -3,6 +3,7 @@ from Crypto.Random import get_random_bytes
 
 key = get_random_bytes(32)                              # 32*8 =  256 bits
 buffer_size = 65536                                     # 64kb
+
 def PutKey():
     file_in = open("key_location.txt", 'wb') # Read bytes
     key_from_file = file_in.write(key) # This key should be the same
