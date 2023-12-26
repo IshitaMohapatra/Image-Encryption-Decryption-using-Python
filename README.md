@@ -1,7 +1,7 @@
 # Image-Encryption-Decryption-using-Python
 ## Description
 Images contain very sensitive and confidential information. It is a form of Visual Cryptography. Visual cryptography is a cryptographic technique which allows visual information (pictures, text, etc.) to be encrypted in a way such that the decrypted information appears as a visual image.
-Main objective of this application is to provide a secure and secret transmission of text by encrypting it on an image using a key and which can only be decrypted by an authorized receiver using the same key.
+Main objective of this application is to provide a secure and secret transmission of text by encrypting it on an image using a key and which can only be decrypted by an authorized receiver using the same key. The algorithm we use for image encryption is AES (Advanced Encryption Standard) algorithm.
 
 ## Table of Contents
 
